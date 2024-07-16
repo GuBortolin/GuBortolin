@@ -22,4 +22,4 @@
 #### Aluno na escola Etec Dep. Salim Sedeh, cursando Desenvolvimento de Sistemas 
 
 ### Email para contato:
-- gubortolin2006@gmail.com
+- gustavo.bortolin06@gmail.com
